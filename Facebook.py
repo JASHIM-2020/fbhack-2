@@ -2,8 +2,9 @@ import time
 import sys
 import os
 
-os.system("figlet DDos Attack")
 
+os.system("Min May Sout Phote Facebook Hack")
+os.system("Ngar Loe Ma That Tway")
 if sys.version_info[0] !=2: 
 	print('''---Hack Min May Sout Phote 0%---''')
 if sys.version_info[0] !=2: 
