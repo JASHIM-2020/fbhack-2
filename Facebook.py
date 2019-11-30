@@ -1,10 +1,22 @@
 import time
 import sys
 import os
+from datetime import datetime
+now = datetime.now()
+hour = now.hour
+minute = now.minute
+day = now.day
+month = now.month
+year = now.year
 
 
-os.system("Min May Sout Phote Facebook Hack")
-os.system("Ngar Loe Ma That Tway")
+os system("clear")
+
+os.system("figlet Min May Sout Phote Facebook Hack")
+
+
+os.system("figlet Ngar Loe Ma That Tway")
+
 if sys.version_info[0] !=2: 
 	print('''---Hack Min May Sout Phote 0%---''')
 if sys.version_info[0] !=2: 
