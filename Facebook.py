@@ -1,5 +1,8 @@
 import time
 import sys
+import os
+
+os.system("figlet DDos Attack")
 
 if sys.version_info[0] !=2: 
 	print('''---Hack Min May Sout Phote 0%---''')
